@@ -5,10 +5,7 @@
  */
 package travisscott;
 
-/**
- *
- * @author COSLAB
- */
+
 public class Hello {
     /**
      * @param args the command line arguments
